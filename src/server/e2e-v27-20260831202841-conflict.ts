@@ -1,1 +1,1 @@
-export const executorChange = 'executor (v27-20260831202841)';
+export const conflictResolution = 'base + executor (v27-20260831202841)';
